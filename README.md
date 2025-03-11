@@ -1,1 +1,3 @@
-# NBA-fantasy-model
+# Modelling Fantasy Risers
+
+Introduction
